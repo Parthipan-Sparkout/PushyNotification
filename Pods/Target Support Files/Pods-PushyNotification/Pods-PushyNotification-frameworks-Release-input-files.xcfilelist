@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PushyNotification/Pods-PushyNotification-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Pushy/Pushy.framework

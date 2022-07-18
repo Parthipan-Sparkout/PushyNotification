@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Pushy (1.0.32)
+
+DEPENDENCIES:
+  - Alamofire
+  - Pushy
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Pushy
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Pushy: d87dddd74cd738d804cd95a1d4bbcd53a352b6e9
+
+PODFILE CHECKSUM: cba38cee068574d0dd42b0970de1cb70684d0f9d
+
+COCOAPODS: 1.11.3
